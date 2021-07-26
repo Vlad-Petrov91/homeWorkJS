@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+   <meta charset="UTF-8">
+   <meta http-equiv="X-UA-Compatible" content="IE=edge">
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="style.css">
+   <title>Document</title>
+</head>
+
+<body>
+   <div id="app">
+
+      <h1>Home Work 5</h1>
+      <div class="goodsContainer">
+         <template v-if="isLoaded">
+            <template v-if="goods.length > 0">
+               <div class="goodCard" v-for="good of goods"> {{good.title}} <br> {{good. description}}
+                  <br> $
+                  {{good.price}} <br> <button v-on:click="addToCard" :key="good.id">Add to cart item №
+                     {{good.id}}</button>
+               </div>
+      </div>
+      </template>
+      <template v-else>
+         <p>Нет данных</p>
+      </template>
+      </template>
+      <template v-else>
+         <p>loading...</p>
+      </template>
+   </div>
+   <hr>
+   <button v-on:click="modify">Cart</button>
+   <div v-if="isModified">
+      <li v-for="good of cart">{{ good.title}} $ {{good.price}}</li>
+      </ul>
+   </div>
+   <ul>
+
+
+
+
+      </div>
+
+      <script src="https://cdn.jsdelivr.net/npm/vue@2.6.14/dist/vue.js"></script>
+      <script src="main.js"></script>
+</body>
+
+</html>
