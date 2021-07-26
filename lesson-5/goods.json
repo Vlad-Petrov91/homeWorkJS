@@ -1,0 +1,56 @@
+[
+   {
+      "id": 1,
+      "title": "Jacket",
+      "price": 150,
+      "description": "Known for her sculptural takes Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ullam?"
+   },
+   {
+      "id": 2,
+      "title": "Shirt",
+      "price": 75,
+      "description": "Known for her sculptural takes Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ullam?"
+   },
+   {
+      "id": 3,
+      "title": "Shorts",
+      "price": 55,
+      "description": "Known for her sculptural takes Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ullam?"
+   },
+   {
+      "id": 4,
+      "title": "Pants",
+      "price": 20,
+      "description": "Known for her sculptural takes Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ullam?"
+   },
+   {
+      "id": 5,
+      "title": "T-Shirt",
+      "price": 82,
+      "description": "Known for her sculptural takes Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ullam?"
+   },
+   {
+      "id": 6,
+      "title": "Cap",
+      "price": 66,
+      "description": "Known for her sculptural takes Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ullam?"
+   },
+   {
+      "id": 7,
+      "title": "Shirt",
+      "price": 18,
+      "description": "Known for her sculptural takes Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ullam?"
+   },
+   {
+      "id": 8,
+      "title": "Jacket",
+      "price": 58,
+      "description": "Known for her sculptural takes Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ullam?"
+   },
+   {
+      "id": 9,
+      "title": "Shirt",
+      "price": 100,
+      "description": "Known for her sculptural takes Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ullam?"
+   }
+]
