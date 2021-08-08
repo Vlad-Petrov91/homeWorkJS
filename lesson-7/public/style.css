@@ -1,0 +1,8 @@
+body {
+   color: rgb(24, 104, 104);
+}
+
+.catalog {
+   display: flex;
+   flex-wrap: wrap;
+}
