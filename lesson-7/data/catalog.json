@@ -1,0 +1,74 @@
+[
+   {
+      "id": 1,
+      "title": "Jacket",
+      "img": "img/catalog/men_item_1.jpg",
+      "price": 150.00,
+      "description": "Known for her sculptural takes Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ullam?",
+      "quantity": 1
+   },
+   {
+      "id": 2,
+      "title": "Shirt",
+      "img": "img/catalog/men_item_2.jpg",
+      "price": 75.00,
+      "description": "Known for her sculptural takes Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ullam?",
+      "quantity": 1
+   },
+   {
+      "id": 3,
+      "title": "Shorts",
+      "img": "img/catalog/men_item_3.jpg",
+      "price": 55.00,
+      "description": "Known for her sculptural takes Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ullam?",
+      "quantity": 1
+   },
+   {
+      "id": 4,
+      "title": "Pants",
+      "img": "img/catalog/men_item_4.jpg",
+      "price": 20.00,
+      "description": "Known for her sculptural takes Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ullam?",
+      "quantity": 1
+   },
+   {
+      "id": 5,
+      "title": "T-Shirt",
+      "img": "img/catalog/men_item_5.jpg",
+      "price": 82.00,
+      "description": "Known for her sculptural takes Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ullam?",
+      "quantity": 1
+   },
+   {
+      "id": 6,
+      "title": "Cap",
+      "img": "img/catalog/men_item_6.jpg",
+      "price": 66.00,
+      "description": "Known for her sculptural takes Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ullam?",
+      "quantity": 1
+   },
+   {
+      "id": 7,
+      "title": "Shirt",
+      "img": "img/catalog/men_item_7.jpg",
+      "price": 18.00,
+      "description": "Known for her sculptural takes Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ullam?",
+      "quantity": 1
+   },
+   {
+      "id": 8,
+      "title": "Jacket",
+      "img": "img/catalog/men_item_8.jpg",
+      "price": 58.00,
+      "description": "Known for her sculptural takes Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ullam?",
+      "quantity": 1
+   },
+   {
+      "id": 9,
+      "title": "Shirt",
+      "img": "img/catalog/men_item_9.jpg",
+      "price": 100.00,
+      "description": "Known for her sculptural takes Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus, ullam?",
+      "quantity": 1
+   }
+]
